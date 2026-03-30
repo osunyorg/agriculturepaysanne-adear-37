@@ -1,13 +1,7 @@
-theme: osuny
+theme: 
+  - agriculturepaysanne-theme
+  - osuny-plugin-centered-footer
 _merge: deep
 params:
-  summary:
-    position: hero
-  search:
-    active: true
   logo:
-    header: ''
-    footer: ''
-  home:
-    head:
-      title: site
+    header: '/assets/images/logo-adear37.svg'
