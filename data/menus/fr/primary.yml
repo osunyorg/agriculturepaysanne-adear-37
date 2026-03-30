@@ -1,40 +1,34 @@
 ---
 title: Menu principal
 items:
-- title: Actualités
-  slug: actualites
-  target: "/actualites/"
+- title: Qui sommes-nous ?
+  slug: qui-sommes-nous
+  target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
-- title: Personnes
-  slug: personnes
-  target: "/personnes/"
-  kind: page
+  path: "/pages/qui-sommes-nous"
+  file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Nos formations
+  slug: nos-formations
+  target: ''
+  kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/persons"
-  file: content/fr/persons/_index.html
-- title: Offres d'emploi
-  slug: offres-d-emploi
-  target: "/offres-d-emploi/"
-  kind: page
+- title: S'installer
+  slug: s-installer
+  target: ''
+  kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/jobs"
-  file: content/fr/jobs/_index.html
-- title: Organisations
-  slug: organisations
-  target: "/organisations/"
-  kind: page
+- title: Transmettre
+  slug: transmettre
+  target: ''
+  kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/organizations"
-  file: content/fr/organizations/_index.html
 
