@@ -31,4 +31,18 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
+- title: Faire évoluer ses pratiques
+  slug: faire-evoluer-ses-pratiques
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: S'organiser
+  slug: s-organiser
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
