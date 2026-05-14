@@ -20,8 +20,8 @@ items:
   - "/contact/"
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
-- title: Accompagnement
-  slug: accompagnement
+- title: Nos activités
+  slug: nos-activites
   target: ''
   kind: blank
   new_tab: false
