@@ -9,6 +9,23 @@ fr:
   buildFuture: true
   params:
     contact_details:
+      emails:
+        email:
+          label: >-
+            contact@adear37.org
+          value: >-
+            mailto:contact@adear37.org
+      social_networks:
+        facebook:
+          label: >-
+            profile.php?id=100057508875818
+          value: >-
+            https://www.facebook.com/profile.php?id=100057508875818
+        youtube:
+          label: >-
+            confpaysanne3773videos
+          value: >-
+            https://www.youtube.com/@confpaysanne3773videos
 
   taxonomies:
     administrator: administrators
