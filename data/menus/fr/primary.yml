@@ -3,43 +3,53 @@ title: Menu principal
 items:
 - title: Qui sommes-nous ?
   slug: qui-sommes-nous
-  target: "/qui-sommes-nous/"
+  target: "/contact/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
-  path: "/pages/qui-sommes-nous"
-  file: content/fr/pages/qui-sommes-nous/_index.html
-- title: Nos formations
-  slug: nos-formations
+  children:
+  - title: hop
+    slug: hop
+    target: "/contact/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/contact"
+    file: content/fr/pages/contact/_index.html
+  descendants_targets:
+  - "/contact/"
+  path: "/pages/contact"
+  file: content/fr/pages/contact/_index.html
+- title: Accompagnement
+  slug: accompagnement
   target: ''
   kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-- title: S'installer
-  slug: s-installer
+- title: Formations
+  slug: formations
   target: ''
   kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-- title: Transmettre
-  slug: transmettre
+- title: Actualités
+  slug: actualites
   target: ''
   kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-- title: Faire évoluer ses pratiques
-  slug: faire-evoluer-ses-pratiques
+- title: Réseau
+  slug: reseau
   target: ''
   kind: blank
   new_tab: false
   children: []
   descendants_targets: []
-- title: S'organiser
-  slug: s-organiser
+- title: Nous soutenir
+  slug: nous-soutenir
   target: ''
   kind: blank
   new_tab: false
