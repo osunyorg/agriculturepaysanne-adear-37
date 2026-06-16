@@ -19,6 +19,10 @@ from = "/offres-d-emploi/index.html"
 to = "/annonces/"
 
 [[redirects]]
+from = "/espace-presse/index.html"
+to = "/qui-sommes-nous/espace-presse/"
+
+[[redirects]]
 from = "/activites/formation/index.html"
 to = "/formation/"
 
