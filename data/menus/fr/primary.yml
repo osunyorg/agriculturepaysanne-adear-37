@@ -69,14 +69,21 @@ items:
     new_tab: false
     children: []
     descendants_targets: []
-  - title: Développement territorial
-    slug: developpement-territorial
+  - title: Projets territoriaux
+    slug: projets-territoriaux
     target: ''
     kind: blank
     new_tab: false
     children: []
     descendants_targets: []
-  - title: Création de liens et d'un réseau
+  - title: Animation territoriale
+    slug: animation-territoriale
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: "// Création de liens et d'un réseau //"
     slug: creation-de-liens-et-d-un-reseau
     target: ''
     kind: blank
@@ -90,8 +97,30 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Stage Paysan Créatif
+    slug: stage-paysan-creatif
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: De l'Idée au Projet
+    slug: de-l-idee-au-projet
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Le Café Installation-Transmission
+    slug: le-cafe-installation-transmission
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
 - title: Actualités
   slug: actualites
   target: ''
