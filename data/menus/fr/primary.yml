@@ -1,14 +1,14 @@
 ---
 title: Menu principal
 items:
-- title: Qui sommes-nous ?
-  slug: qui-sommes-nous
+- title: C'est quoi l'ADEAR ?
+  slug: c-est-quoi-l-adear
   target: "/contact/"
   kind: page
   new_tab: false
   children:
-  - title: hop
-    slug: hop
+  - title: L'ADEAR
+    slug: l-adear
     target: "/contact/"
     kind: page
     new_tab: false
@@ -16,7 +16,36 @@ items:
     descendants_targets: []
     path: "/pages/contact"
     file: content/fr/pages/contact/_index.html
+  - title: Le Réseau
+    slug: le-reseau
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: L'Agriculture Paysanne
+    slug: l-agriculture-paysanne
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Ressources
+    slug: ressources
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Espace Presse
+    slug: espace-presse
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
+  - ''
   - "/contact/"
   path: "/pages/contact"
   file: content/fr/pages/contact/_index.html
@@ -25,8 +54,37 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Formations
+    slug: formations
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Accompagnement
+    slug: accompagnement
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Développement territorial
+    slug: developpement-territorial
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Création de liens et d'un réseau
+    slug: creation-de-liens-et-d-un-reseau
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
 - title: Formations
   slug: formations
   target: ''
@@ -41,8 +99,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Réseau
-  slug: reseau
+- title: Contact
+  slug: contact
   target: ''
   kind: blank
   new_tab: false
