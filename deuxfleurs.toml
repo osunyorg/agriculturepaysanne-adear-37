@@ -18,3 +18,7 @@ Cache-Control = "max-age=31536000, no-transform, public"
 from = "/offres-d-emploi/index.html"
 to = "/annonces/"
 
+[[redirects]]
+from = "/activites/formation/index.html"
+to = "/formation/"
+
