@@ -166,8 +166,8 @@ items:
   - "/formation-et-accompagnement/transmettre-sa-ferme/"
 - title: Actualités
   slug: actualites
-  target: "/actualites/2026-05-14-formation/"
-  kind: post
+  target: ''
+  kind: blank
   new_tab: false
   children: []
   descendants_targets: []
