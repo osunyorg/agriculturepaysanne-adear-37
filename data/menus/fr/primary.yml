@@ -194,13 +194,13 @@ items:
   - ''
 - title: Actualités
   slug: actualites
-  target: "/actualites/"
-  kind: page
+  target: "/actualites/2026-05-14-formation/"
+  kind: post
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/posts"
-  file: content/fr/posts/_index.html
+  path: "/posts/2026/2026-05-14-formation"
+  file: content/fr/posts/2026/2026-05-14-formation.html
 - title: Contact
   slug: contact
   target: ''
