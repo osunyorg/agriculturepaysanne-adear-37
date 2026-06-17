@@ -195,11 +195,13 @@ items:
   file: content/fr/posts/2026/2026-05-14-formation.html
 - title: Contact
   slug: contact
-  target: ''
-  kind: blank
+  target: "/contact/"
+  kind: page
   new_tab: false
   children: []
   descendants_targets: []
+  path: "/pages/contact"
+  file: content/fr/pages/contact/_index.html
 - title: Adhérer
   slug: adherer
   target: ''
