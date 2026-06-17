@@ -119,8 +119,8 @@ items:
   - "/nos-activites/projets-territoriaux/"
 - title: Formations et accompagnement
   slug: formations-et-accompagnement
-  target: ''
-  kind: blank
+  target: "/formation-et-accompagnement/"
+  kind: page
   new_tab: false
   children:
   - title: De l'Idée au Projet
@@ -164,6 +164,8 @@ items:
   - "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
   - "/formation-et-accompagnement/stage-paysan-creatif/"
   - "/formation-et-accompagnement/transmettre-sa-ferme/"
+  path: "/pages/formation-et-accompagnement"
+  file: content/fr/pages/formation-et-accompagnement/_index.html
 - title: Actualités
   slug: actualites
   target: ''
