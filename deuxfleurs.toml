@@ -23,6 +23,10 @@ from = "/espace-presse/index.html"
 to = "/qui-sommes-nous/espace-presse/"
 
 [[redirects]]
+from = "/service-comptabilite-mutualise/index.html"
+to = "/nos-activites/service-comptabilite-mutualise/"
+
+[[redirects]]
 from = "/activites/formation/index.html"
 to = "/formation/"
 
