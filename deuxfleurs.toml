@@ -31,10 +31,6 @@ from = "/nos-activites/formation/stage-paysan-creatif/index.html"
 to = "/formation-et-accompagnement/stage-paysan-creatif/"
 
 [[redirects]]
-from = "/service-comptabilite-mutualise/index.html"
-to = "/nos-activites/service-comptabilite-mutualise/"
-
-[[redirects]]
 from = "/activites/formation/index.html"
 to = "/formation/"
 

@@ -66,132 +66,104 @@ items:
   kind: blank
   new_tab: false
   children:
-  - title: Formations
-    slug: formations
-    target: ''
-    kind: blank
+  - title: Formation
+    slug: formation
+    target: "/nos-activites/formation/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/nos-activites/formation"
+    file: content/fr/pages/nos-activites/formation/_index.html
   - title: Accompagnement
     slug: accompagnement
-    target: ''
-    kind: blank
+    target: "/nos-activites/accompagnement/"
+    kind: page
     new_tab: false
-    children:
-    - title: S'installer
-      slug: s-installer
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    - title: Transmettre sa ferme
-      slug: transmettre-sa-ferme
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    descendants_targets:
-    - ''
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-activites/accompagnement"
+    file: content/fr/pages/nos-activites/accompagnement/_index.html
   - title: Projets territoriaux
     slug: projets-territoriaux
-    target: ''
-    kind: blank
+    target: "/nos-activites/projets-territoriaux/"
+    kind: page
     new_tab: false
-    children:
-    - title: L'ABande Paysanne
-      slug: l-abande-paysanne
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    - title: SSA - Sécurité Sociale de l'Alimentation
-      slug: ssa-securite-sociale-de-l-alimentation
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    descendants_targets:
-    - ''
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-activites/projets-territoriaux"
+    file: content/fr/pages/nos-activites/projets-territoriaux/_index.html
   - title: Animation territoriale
     slug: animation-territoriale
-    target: ''
-    kind: blank
+    target: "/nos-activites/animation-territoriale/"
+    kind: page
     new_tab: false
-    children:
-    - title: Le Café Installation-Transmission
-      slug: le-cafe-installation-transmission
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    - title: Forum Paysan
-      slug: forum-paysan
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    - title: Rencontres et débats
-      slug: rencontres-et-debats
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    descendants_targets:
-    - ''
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-activites/animation-territoriale"
+    file: content/fr/pages/nos-activites/animation-territoriale/_index.html
   - title: Mutualisation de services
     slug: mutualisation-de-services
-    target: ''
-    kind: blank
+    target: "/nos-activites/mutualisation/"
+    kind: page
     new_tab: false
-    children:
-    - title: Comptabilité
-      slug: comptabilite
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    - title: Logistique
-      slug: logistique
-      target: ''
-      kind: blank
-      new_tab: false
-      children: []
-      descendants_targets: []
-    descendants_targets:
-    - ''
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-activites/mutualisation"
+    file: content/fr/pages/nos-activites/mutualisation/_index.html
   descendants_targets:
-  - ''
+  - "/nos-activites/accompagnement/"
+  - "/nos-activites/animation-territoriale/"
+  - "/nos-activites/formation/"
+  - "/nos-activites/mutualisation/"
+  - "/nos-activites/projets-territoriaux/"
 - title: Formations et accompagnement
   slug: formations-et-accompagnement
   target: ''
   kind: blank
   new_tab: false
   children:
-  - title: Stage Paysan Créatif
-    slug: stage-paysan-creatif
-    target: ''
-    kind: blank
-    new_tab: false
-    children: []
-    descendants_targets: []
   - title: De l'Idée au Projet
     slug: de-l-idee-au-projet
-    target: ''
-    kind: blank
+    target: "/formation-et-accompagnement/de-lidee-au-projet/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/formation-et-accompagnement/de-lidee-au-projet"
+    file: content/fr/pages/formation-et-accompagnement/de-lidee-au-projet/_index.html
+  - title: Stage Paysan Créatif
+    slug: stage-paysan-creatif
+    target: "/formation-et-accompagnement/stage-paysan-creatif/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/formation-et-accompagnement/stage-paysan-creatif"
+    file: content/fr/pages/formation-et-accompagnement/stage-paysan-creatif/_index.html
+  - title: S'installer en Agriculture Paysanne
+    slug: s-installer-en-agriculture-paysanne
+    target: "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne"
+    file: content/fr/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/_index.html
+  - title: Transmettre sa ferme
+    slug: transmettre-sa-ferme
+    target: "/formation-et-accompagnement/transmettre-sa-ferme/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/formation-et-accompagnement/transmettre-sa-ferme"
+    file: content/fr/pages/formation-et-accompagnement/transmettre-sa-ferme/_index.html
   descendants_targets:
-  - ''
+  - "/formation-et-accompagnement/de-lidee-au-projet/"
+  - "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
+  - "/formation-et-accompagnement/stage-paysan-creatif/"
+  - "/formation-et-accompagnement/transmettre-sa-ferme/"
 - title: Actualités
   slug: actualites
   target: "/actualites/2026-05-14-formation/"
