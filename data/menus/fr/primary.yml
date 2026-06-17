@@ -117,8 +117,8 @@ items:
       descendants_targets: []
     descendants_targets:
     - ''
-  - title: Animation territoriale / Promotion de l'Agriculture Paysanne
-    slug: animation-territoriale-promotion-de-l-agriculture-paysanne
+  - title: Animation territoriale
+    slug: animation-territoriale
     target: ''
     kind: blank
     new_tab: false
@@ -139,6 +139,28 @@ items:
       descendants_targets: []
     - title: Rencontres et débats
       slug: rencontres-et-debats
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    descendants_targets:
+    - ''
+  - title: Mutualisation de services
+    slug: mutualisation-de-services
+    target: ''
+    kind: blank
+    new_tab: false
+    children:
+    - title: Comptabilité
+      slug: comptabilite
+      target: ''
+      kind: blank
+      new_tab: false
+      children: []
+      descendants_targets: []
+    - title: Logistique
+      slug: logistique
       target: ''
       kind: blank
       new_tab: false
@@ -186,13 +208,6 @@ items:
   descendants_targets: []
 - title: Adhérer
   slug: adherer
-  target: ''
-  kind: blank
-  new_tab: false
-  children: []
-  descendants_targets: []
-- title: Service comptabilité mutualisé
-  slug: service-comptabilite-mutualise
   target: ''
   kind: blank
   new_tab: false
