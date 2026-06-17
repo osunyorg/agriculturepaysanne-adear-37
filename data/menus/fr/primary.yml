@@ -16,8 +16,8 @@ items:
     descendants_targets: []
     path: "/pages/qui-sommes-nous/lassociation"
     file: content/fr/pages/qui-sommes-nous/lassociation/_index.html
-  - title: Valeurs de l'Agriculture Paysanne
-    slug: valeurs-de-l-agriculture-paysanne
+  - title: L'Agriculture Paysanne et ses valeurs
+    slug: l-agriculture-paysanne-et-ses-valeurs
     target: "/qui-sommes-nous/lagriculture-paysanne/"
     kind: page
     new_tab: false
@@ -25,8 +25,8 @@ items:
     descendants_targets: []
     path: "/pages/qui-sommes-nous/lagriculture-paysanne"
     file: content/fr/pages/qui-sommes-nous/lagriculture-paysanne/_index.html
-  - title: 'Le Réseau : Régional et National'
-    slug: le-reseau-regional-et-national
+  - title: Un réseau national
+    slug: un-reseau-national
     target: "/qui-sommes-nous/le-reseau/"
     kind: page
     new_tab: false
