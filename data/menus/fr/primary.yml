@@ -1,54 +1,65 @@
 ---
 title: Menu principal
 items:
-- title: C'est quoi l'ADEAR ?
-  slug: c-est-quoi-l-adear
-  target: "/contact/"
+- title: Qui sommes-nous ?
+  slug: qui-sommes-nous
+  target: "/qui-sommes-nous/lassociation/"
   kind: page
   new_tab: false
   children:
   - title: L'ADEAR
     slug: l-adear
-    target: "/contact/"
+    target: "/qui-sommes-nous/lassociation/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/contact"
-    file: content/fr/pages/contact/_index.html
-  - title: Le Réseau
-    slug: le-reseau
-    target: ''
-    kind: blank
+    path: "/pages/qui-sommes-nous/lassociation"
+    file: content/fr/pages/qui-sommes-nous/lassociation/_index.html
+  - title: Valeurs de l'Agriculture Paysanne
+    slug: valeurs-de-l-agriculture-paysanne
+    target: "/qui-sommes-nous/lagriculture-paysanne/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
-  - title: L'Agriculture Paysanne
-    slug: l-agriculture-paysanne
-    target: ''
-    kind: blank
+    path: "/pages/qui-sommes-nous/lagriculture-paysanne"
+    file: content/fr/pages/qui-sommes-nous/lagriculture-paysanne/_index.html
+  - title: 'Le Réseau : Régional et National'
+    slug: le-reseau-regional-et-national
+    target: "/qui-sommes-nous/le-reseau/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/qui-sommes-nous/le-reseau"
+    file: content/fr/pages/qui-sommes-nous/le-reseau/_index.html
   - title: Ressources
     slug: ressources
-    target: ''
-    kind: blank
+    target: "/qui-sommes-nous/ressources/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/qui-sommes-nous/ressources"
+    file: content/fr/pages/qui-sommes-nous/ressources/_index.html
   - title: Espace Presse
     slug: espace-presse
-    target: ''
-    kind: blank
+    target: "/qui-sommes-nous/espace-presse/"
+    kind: page
     new_tab: false
     children: []
     descendants_targets: []
+    path: "/pages/qui-sommes-nous/espace-presse"
+    file: content/fr/pages/qui-sommes-nous/espace-presse/_index.html
   descendants_targets:
-  - ''
-  - "/contact/"
-  path: "/pages/contact"
-  file: content/fr/pages/contact/_index.html
+  - "/qui-sommes-nous/espace-presse/"
+  - "/qui-sommes-nous/lagriculture-paysanne/"
+  - "/qui-sommes-nous/lassociation/"
+  - "/qui-sommes-nous/le-reseau/"
+  - "/qui-sommes-nous/ressources/"
+  path: "/pages/qui-sommes-nous/lassociation"
+  file: content/fr/pages/qui-sommes-nous/lassociation/_index.html
 - title: Nos activités
   slug: nos-activites
   target: ''
