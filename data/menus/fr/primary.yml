@@ -191,8 +191,8 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Service comptable mutualisé
-  slug: service-comptable-mutualise
+- title: Service comptabilité mutualisé
+  slug: service-comptabilite-mutualise
   target: ''
   kind: blank
   new_tab: false
