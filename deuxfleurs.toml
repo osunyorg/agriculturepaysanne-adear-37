@@ -19,8 +19,16 @@ from = "/offres-d-emploi/index.html"
 to = "/annonces/"
 
 [[redirects]]
+from = "/nos-activites/accompagnement/sinstaller-en-agriculture-paysanne/index.html"
+to = "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
+
+[[redirects]]
 from = "/espace-presse/index.html"
 to = "/qui-sommes-nous/espace-presse/"
+
+[[redirects]]
+from = "/nos-activites/formation/stage-paysan-creatif/index.html"
+to = "/formation-et-accompagnement/stage-paysan-creatif/"
 
 [[redirects]]
 from = "/service-comptabilite-mutualise/index.html"
@@ -29,4 +37,12 @@ to = "/nos-activites/service-comptabilite-mutualise/"
 [[redirects]]
 from = "/activites/formation/index.html"
 to = "/formation/"
+
+[[redirects]]
+from = "/nos-activites/accompagnement/transmettre-sa-ferme/index.html"
+to = "/formation-et-accompagnement/transmettre-sa-ferme/"
+
+[[redirects]]
+from = "/nos-activites/formation/de-lidee-au-projet/index.html"
+to = "/formation-et-accompagnement/de-lidee-au-projet/"
 
