@@ -169,8 +169,28 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Agenda
+    slug: agenda
+    target: "/actualite/a-venir/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/actualite/a-venir"
+    file: content/fr/pages/actualite/a-venir/_index.html
+  - title: Annonces
+    slug: annonces
+    target: "/annonces/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/jobs"
+    file: content/fr/jobs/_index.html
+  descendants_targets:
+  - "/actualite/a-venir/"
+  - "/annonces/"
   path: "/posts/2026/2026-05-14-formation"
   file: content/fr/posts/2026/2026-05-14-formation.html
 - title: Contact
