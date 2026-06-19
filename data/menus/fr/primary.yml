@@ -16,8 +16,8 @@ items:
     descendants_targets: []
     path: "/pages/qui-sommes-nous/lassociation"
     file: content/fr/pages/qui-sommes-nous/lassociation/_index.html
-  - title: L'Agriculture Paysanne et ses valeurs
-    slug: l-agriculture-paysanne-et-ses-valeurs
+  - title: L'Agriculture Paysanne
+    slug: l-agriculture-paysanne
     target: "/qui-sommes-nous/lagriculture-paysanne/"
     kind: page
     new_tab: false
