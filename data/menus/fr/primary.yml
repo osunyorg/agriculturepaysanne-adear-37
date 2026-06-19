@@ -123,33 +123,6 @@ items:
   kind: page
   new_tab: false
   children:
-  - title: De l'Idée au Projet
-    slug: de-l-idee-au-projet
-    target: "/formation-et-accompagnement/de-lidee-au-projet/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/formation-et-accompagnement/de-lidee-au-projet"
-    file: content/fr/pages/formation-et-accompagnement/de-lidee-au-projet/_index.html
-  - title: Stage Paysan Créatif
-    slug: stage-paysan-creatif
-    target: "/formation-et-accompagnement/stage-paysan-creatif/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/formation-et-accompagnement/stage-paysan-creatif"
-    file: content/fr/pages/formation-et-accompagnement/stage-paysan-creatif/_index.html
-  - title: S'installer en Agriculture Paysanne
-    slug: s-installer-en-agriculture-paysanne
-    target: "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
-    kind: page
-    new_tab: false
-    children: []
-    descendants_targets: []
-    path: "/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne"
-    file: content/fr/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/_index.html
   - title: Transmettre sa ferme
     slug: transmettre-sa-ferme
     target: "/formation-et-accompagnement/transmettre-sa-ferme/"
@@ -159,10 +132,25 @@ items:
     descendants_targets: []
     path: "/pages/formation-et-accompagnement/transmettre-sa-ferme"
     file: content/fr/pages/formation-et-accompagnement/transmettre-sa-ferme/_index.html
+  - title: S'installer en Agriculture Paysanne
+    slug: s-installer-en-agriculture-paysanne
+    target: "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne"
+    file: content/fr/pages/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/_index.html
+  - title: Évoluer dans sa pratique agricole
+    slug: evoluer-dans-sa-pratique-agricole
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
   descendants_targets:
-  - "/formation-et-accompagnement/de-lidee-au-projet/"
+  - ''
   - "/formation-et-accompagnement/sinstaller-en-agriculture-paysanne/"
-  - "/formation-et-accompagnement/stage-paysan-creatif/"
   - "/formation-et-accompagnement/transmettre-sa-ferme/"
   path: "/pages/formation-et-accompagnement"
   file: content/fr/pages/formation-et-accompagnement/_index.html
